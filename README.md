@@ -8,6 +8,7 @@
       -mongodb 
       -git 
       -react
+      -Java
 - 💞️ I’m looking to collaborate on any project for a new developer with passion for learning and will to improve everyday, everything that adds to my skills is highly appreciated.
 - 📫 You can reach me on my email ----> wdmartinez89@gmail.com
 
